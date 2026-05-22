@@ -1,0 +1,61 @@
+# skill-radar configuration
+
+# Anthropic API key okunur şu önceliklerle:
+# 1) ANTHROPIC_API_KEY env değişkeni
+# 2) Aşağıdaki claude.api_key alanı (önerilmez - secret commit etme)
+claude:
+  model: claude-opus-4-7
+  max_tokens: 4096
+  # api_key: sk-ant-...   # tercihen ENV kullan
+
+github:
+  # Token okunur şu önceliklerle:
+  # 1) GITHUB_TOKEN env değişkeni
+  # 2) Aşağıdaki github.token alanı
+  # token: ghp_...        # tercihen ENV kullan
+  per_page: 30
+  max_results_per_query: 30
+
+# Tarama yapılacak GitHub aramaları. "q" GitHub search syntax'ında.
+# Sort: stars|updated|forks. Son 90 gün filtresi her query'ye otomatik eklenir.
+queries:
+  - name: claude-code-skill-topic
+    q: "topic:claude-code-skill"
+    sort: updated
+  - name: claude-skill-topic
+    q: "topic:claude-skill"
+    sort: updated
+  - name: agent-skill-topic
+    q: "topic:agent-skill"
+    sort: updated
+  - name: claude-code-readme
+    q: "\"claude code skill\" in:readme"
+    sort: updated
+  - name: claude-skill-readme
+    q: "\"SKILL.md\" in:readme"
+    sort: updated
+
+# Eleme filtreleri (aday değerlendirilmeden önce uygulanır)
+filters:
+  min_stars: 1
+  max_repo_size_kb: 100000      # 100MB üstü repo'lar atlanır
+  exclude_forks: true
+  exclude_archived: true
+  # 90 gün içinde push edilmemişler atlanır
+  pushed_within_days: 90
+
+# Aday SKILL olarak işaretlenmesi için Claude değerlendirmesi
+# `is_skill` true VE `score >= min_score` olmalı.
+scoring:
+  min_score: 6     # 1-10 ölçeği
+
+# Çıktı klasörleri (radar.py'ye göre relatif)
+output:
+  candidates_dir: candidates
+  approved_local_dir: ../.claude/skills     # proje seviyesinde kurmak için
+  approved_global_dir: ~/.claude/skills     # kullanıcı seviyesi
+  default_approve_target: global            # local|global
+
+# Tarama başına maksimum kaç aday Claude'a yollansın (maliyet limiti)
+limits:
+  max_candidates_per_scan: 10
