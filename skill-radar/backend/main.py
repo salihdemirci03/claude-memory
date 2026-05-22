@@ -250,6 +250,10 @@ async def _run_scan() -> None:
         import argparse
         args = argparse.Namespace()
         await loop.run_in_executor(None, radar.cmd_scan, args)
+    except SystemExit as e:
+        # radar.py uses sys.exit() for missing config (e.g. ANTHROPIC_API_KEY).
+        # Capture it as a normal error so we don't take down the event loop.
+        scan_state.last_error = str(e) or "scan aborted (config error)"
     except Exception as e:
         scan_state.last_error = str(e)
 
