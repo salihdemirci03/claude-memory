@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  background: #0b0e14;
+  color: #e5e7eb;
+  min-height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* iOS Safari için safe-area */
+body {
+  padding-top: env(safe-area-inset-top);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+/* Markdown render edilen SKILL.md için minimal stil */
+.md h1 { @apply text-xl font-semibold mt-4 mb-2; }
+.md h2 { @apply text-lg font-semibold mt-3 mb-2 text-accent; }
+.md h3 { @apply text-base font-semibold mt-2 mb-1; }
+.md p { @apply mb-2 leading-relaxed; }
+.md ul { @apply list-disc pl-5 mb-2; }
+.md ol { @apply list-decimal pl-5 mb-2; }
+.md code { @apply bg-card px-1 py-0.5 rounded text-sm; }
+.md pre { @apply bg-card border border-border rounded-lg p-3 my-2 overflow-x-auto; }
+.md pre code { @apply bg-transparent p-0; }
+.md hr { @apply my-3 border-border; }
+.md a { @apply text-accent underline; }
