@@ -1,0 +1,2577 @@
+{
+  "heygen-com/hyperframes": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 22239,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "mukul975/Anthropic-Cybersecurity-Skills": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 12059,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "deanpeters/Product-Manager-Skills": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 4616,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "open-gitagent/opengap": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 2793,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "openakita/openakita": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 1779,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "Ar9av/obsidian-wiki": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 1605,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "espressif/esp-claw": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 1420,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "LetsFG/LetsFG": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 1123,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "api-wrap",
+        "label": "API sarmalayıcı",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.85
+      }
+    ]
+  },
+  "caramaschiHG/awesome-ai-agents-2026": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 986,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "simonlin1212/TradingAgents-astock": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 767,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "swapperfinance/swapper-toolkit": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 766,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "sangrokjung/claude-forge": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 717,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "eastreams/loong": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 640,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "RickyTong1/audit-harness": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 604,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "fjb040911/ai-rules": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 590,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "cft0808/edict": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 15912,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 4,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 3,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "analytics",
+        "label": "Analitik/dashboard",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "open-multi-agent/open-multi-agent": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 6285,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 3,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 3,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "builderz-labs/mission-control": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 5064,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 3,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "analytics",
+        "label": "Analitik/dashboard",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "rocketride-org/rocketride-server": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 3697,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "api-wrap",
+        "label": "API sarmalayıcı",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.85
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 1,
+        "monetization": 0.5,
+        "passive": 0.8
+      }
+    ]
+  },
+  "FireRedTeam/FireRed-OpenStoryline": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 2812,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "video-gen",
+        "label": "Video üretimi",
+        "hits": 1,
+        "monetization": 0.85,
+        "passive": 0.6
+      }
+    ]
+  },
+  "GammaLabTechnologies/harmonist": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 1972,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 3,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 3,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "patoles/agent-flow": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 945,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "analytics",
+        "label": "Analitik/dashboard",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "unohee/OpenSwarm": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 795,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 4,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 1,
+        "monetization": 0.5,
+        "passive": 0.8
+      }
+    ]
+  },
+  "swarmclawai/swarmclaw": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 532,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 4,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 3,
+        "monetization": 0.7,
+        "passive": 0.7
+      }
+    ]
+  },
+  "sipyourdrink-ltd/bernstein": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 516,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 3,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "dance-of-tal/dot-studio": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 414,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      }
+    ]
+  },
+  "BUPT-GAMMA/MASFactory": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 395,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 3,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      }
+    ]
+  },
+  "pacifio/cersei": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 369,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 3,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "api-wrap",
+        "label": "API sarmalayıcı",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.85
+      }
+    ]
+  },
+  "PrinceSinghhub/Ultimate-AI-Engineer-Roadmap-2026": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 347,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "OnlyTerp/openclaw-optimization-guide": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 337,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 3,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "H-mmer/pentest-agents": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 637,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      }
+    ]
+  },
+  "bradAGI/awesome-cli-coding-agents": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 465,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 3,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      }
+    ]
+  },
+  "taracodlabs/aiden": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 400,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "assafelovic/skyll": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 230,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      }
+    ]
+  },
+  "fronalabs/frona": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 179,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "Alex8791-cyber/cognithor": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 143,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "pdf-docs",
+        "label": "Doküman/PDF",
+        "hits": 1,
+        "monetization": 0.65,
+        "passive": 0.85
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 1,
+        "monetization": 0.5,
+        "passive": 0.8
+      }
+    ]
+  },
+  "longyunfeigu/learn-hermes-agent": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 129,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "api-wrap",
+        "label": "API sarmalayıcı",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.85
+      }
+    ]
+  },
+  "digitranslab/allama": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 119,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      }
+    ]
+  },
+  "drcrypterdotru/sqlmap-skynet": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 92,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 1,
+        "monetization": 0.5,
+        "passive": 0.8
+      }
+    ]
+  },
+  "denis-prilepskiy/governed-agentic-itsm-blueprint": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 87,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "JakeNesler/OpenProphet": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 63,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "analytics",
+        "label": "Analitik/dashboard",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "VasiHemanth/tokentelemetry": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 56,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "analytics",
+        "label": "Analitik/dashboard",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "yushui2022/easy-coding-agents": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 54,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      }
+    ]
+  },
+  "SUSTech-GenAI/awesome-researchclaw": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 54,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "AnkitNayak-eth/EpsteinFiles-RAG": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 376,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "data-api",
+        "label": "Veri/dataset API",
+        "hits": 1,
+        "monetization": 0.65,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 1,
+        "monetization": 0.5,
+        "passive": 0.8
+      }
+    ]
+  },
+  "Emmimal/context-engine": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 190,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 2,
+        "monetization": 0.5,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "myylogic/cevahir-ai": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 187,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 1,
+        "monetization": 0.5,
+        "passive": 0.8
+      }
+    ]
+  },
+  "GizClaw/flowcraft": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 178,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 3,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 2,
+        "monetization": 0.5,
+        "passive": 0.8
+      },
+      {
+        "id": "api-wrap",
+        "label": "API sarmalayıcı",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.85
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "mezmo/aura": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 77,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 1,
+        "monetization": 0.5,
+        "passive": 0.8
+      }
+    ]
+  },
+  "crux-ecosystem/mol-lang": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 72,
+    "capabilities": [
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 1,
+        "monetization": 0.5,
+        "passive": 0.8
+      }
+    ]
+  },
+  "PangHu1020/scholar-rag": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 55,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 2,
+        "monetization": 0.5,
+        "passive": 0.8
+      },
+      {
+        "id": "pdf-docs",
+        "label": "Doküman/PDF",
+        "hits": 1,
+        "monetization": 0.65,
+        "passive": 0.85
+      }
+    ]
+  },
+  "Emmimal/temporal-rag": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 46,
+    "capabilities": [
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 3,
+        "monetization": 0.5,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "pdf-docs",
+        "label": "Doküman/PDF",
+        "hits": 1,
+        "monetization": 0.65,
+        "passive": 0.85
+      }
+    ]
+  },
+  "alessandrobenigni/BM25-Turbo-Rust-Python-WASM-CLI": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 45,
+    "capabilities": [
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 1,
+        "monetization": 0.5,
+        "passive": 0.8
+      }
+    ]
+  },
+  "kbhujbal/AlphaAnalyst-open-source-autonomous-equity-research-agent": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 39,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 4,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 3,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 2,
+        "monetization": 0.5,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "moneo/laravel-rag": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 38,
+    "capabilities": [
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 3,
+        "monetization": 0.5,
+        "passive": 0.8
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "HaroldConley/chunk-norris": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 36,
+    "capabilities": [
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 1,
+        "monetization": 0.5,
+        "passive": 0.8
+      }
+    ]
+  },
+  "breath57/how-ai-agents-remember": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 36,
+    "capabilities": [
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 2,
+        "monetization": 0.5,
+        "passive": 0.8
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "McKern3l/RAGdrag": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 34,
+    "capabilities": [
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 2,
+        "monetization": 0.5,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "ENDEVSOLS/LongTracer": {
+    "firstSeen": "2026-05-29",
+    "domain": "ai-agents",
+    "stars": 33,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "pdf-docs",
+        "label": "Doküman/PDF",
+        "hits": 1,
+        "monetization": 0.65,
+        "passive": 0.85
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 1,
+        "monetization": 0.5,
+        "passive": 0.8
+      }
+    ]
+  },
+  "velobase/velobase-harness": {
+    "firstSeen": "2026-05-29",
+    "domain": "saas-api",
+    "stars": 386,
+    "capabilities": [
+      {
+        "id": "payments",
+        "label": "Ödeme/abonelik",
+        "hits": 3,
+        "monetization": 0.9,
+        "passive": 0.9
+      },
+      {
+        "id": "saas-kit",
+        "label": "SaaS iskeleti",
+        "hits": 3,
+        "monetization": 0.75,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "ecommerce",
+        "label": "E-ticaret",
+        "hits": 1,
+        "monetization": 0.8,
+        "passive": 0.7
+      }
+    ]
+  },
+  "jonradoff/lastsaas": {
+    "firstSeen": "2026-05-29",
+    "domain": "saas-api",
+    "stars": 106,
+    "capabilities": [
+      {
+        "id": "saas-kit",
+        "label": "SaaS iskeleti",
+        "hits": 4,
+        "monetization": 0.75,
+        "passive": 0.7
+      },
+      {
+        "id": "payments",
+        "label": "Ödeme/abonelik",
+        "hits": 2,
+        "monetization": 0.9,
+        "passive": 0.9
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "Shaisolaris/nextjs-saas-starter": {
+    "firstSeen": "2026-05-29",
+    "domain": "saas-api",
+    "stars": 35,
+    "capabilities": [
+      {
+        "id": "payments",
+        "label": "Ödeme/abonelik",
+        "hits": 2,
+        "monetization": 0.9,
+        "passive": 0.9
+      },
+      {
+        "id": "saas-kit",
+        "label": "SaaS iskeleti",
+        "hits": 2,
+        "monetization": 0.75,
+        "passive": 0.7
+      },
+      {
+        "id": "auth",
+        "label": "Auth/kullanıcı",
+        "hits": 1,
+        "monetization": 0.4,
+        "passive": 0.8
+      },
+      {
+        "id": "analytics",
+        "label": "Analitik/dashboard",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "HBAI-Ltd/Toonflow-app": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 9128,
+    "capabilities": [
+      {
+        "id": "video-gen",
+        "label": "Video üretimi",
+        "hits": 3,
+        "monetization": 0.85,
+        "passive": 0.6
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "mercedezformichelli48242088665/FaceChanger-DeepFake-AI-2026-v3": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 244,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      }
+    ]
+  },
+  "manuelageske58246958801/DeepFake-AI-2026-RealTime": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 202,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      }
+    ]
+  },
+  "NVIDIA-Omniverse/content-agents": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 122,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "blue68/ai-hottopics": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 76,
+    "capabilities": [
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "HuyLe82US/awesome-seedance-prompts": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 44,
+    "capabilities": [
+      {
+        "id": "video-gen",
+        "label": "Video üretimi",
+        "hits": 2,
+        "monetization": 0.85,
+        "passive": 0.6
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "saas-kit",
+        "label": "SaaS iskeleti",
+        "hits": 1,
+        "monetization": 0.75,
+        "passive": 0.7
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "chantaybednarz69549522326/scribe-ai-engine": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 44,
+    "capabilities": [
+      {
+        "id": "seo-content",
+        "label": "SEO/içerik",
+        "hits": 3,
+        "monetization": 0.7,
+        "passive": 0.8
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 1,
+        "monetization": 0.5,
+        "passive": 0.8
+      }
+    ]
+  },
+  "YounesBensafia/overleaf-mcp-server": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 34,
+    "capabilities": []
+  },
+  "wulaosiji/skills": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 27,
+    "capabilities": [
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "LocoreMind/locoagent": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 775,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "social",
+        "label": "Sosyal medya",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.75
+      }
+    ]
+  },
+  "jihe520/social-push": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 446,
+    "capabilities": [
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "stevenflanagan1/social-ai-team": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 124,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "social",
+        "label": "Sosyal medya",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.75
+      }
+    ]
+  },
+  "publora/skills": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 26,
+    "capabilities": [
+      {
+        "id": "social",
+        "label": "Sosyal medya",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.75
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "analytics",
+        "label": "Analitik/dashboard",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      }
+    ]
+  },
+  "AKCodez/higgsfield-claude-skills": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 143,
+    "capabilities": [
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "image-gen",
+        "label": "Görsel üretimi",
+        "hits": 1,
+        "monetization": 0.8,
+        "passive": 0.7
+      }
+    ]
+  },
+  "dsm5e/aso-tracker": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 107,
+    "capabilities": [
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "ecommerce",
+        "label": "E-ticaret",
+        "hits": 1,
+        "monetization": 0.8,
+        "passive": 0.7
+      }
+    ]
+  },
+  "drasstry/shortdrama-pipeline": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 105,
+    "capabilities": [
+      {
+        "id": "video-gen",
+        "label": "Video üretimi",
+        "hits": 1,
+        "monetization": 0.85,
+        "passive": 0.6
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "runesleo/claude-video-kit": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 102,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "video-gen",
+        "label": "Video üretimi",
+        "hits": 1,
+        "monetization": 0.85,
+        "passive": 0.6
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "vibheksoni/free-ai": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 519,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 3,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "image-gen",
+        "label": "Görsel üretimi",
+        "hits": 1,
+        "monetization": 0.8,
+        "passive": 0.7
+      },
+      {
+        "id": "api-wrap",
+        "label": "API sarmalayıcı",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.85
+      }
+    ]
+  },
+  "lidge-jun/ima2-gen": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 276,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "auth",
+        "label": "Auth/kullanıcı",
+        "hits": 2,
+        "monetization": 0.4,
+        "passive": 0.8
+      },
+      {
+        "id": "image-gen",
+        "label": "Görsel üretimi",
+        "hits": 1,
+        "monetization": 0.8,
+        "passive": 0.7
+      }
+    ]
+  },
+  "Moeblack/ComfyUI-AnimaTool": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 101,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "image-gen",
+        "label": "Görsel üretimi",
+        "hits": 1,
+        "monetization": 0.8,
+        "passive": 0.7
+      }
+    ]
+  },
+  "GautamVhavle/CatGPT-Gateway": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 91,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 5,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "image-gen",
+        "label": "Görsel üretimi",
+        "hits": 2,
+        "monetization": 0.8,
+        "passive": 0.7
+      },
+      {
+        "id": "api-wrap",
+        "label": "API sarmalayıcı",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.85
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "zhanghaonan777/Seedance2-skill": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 78,
+    "capabilities": [
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "video-gen",
+        "label": "Video üretimi",
+        "hits": 1,
+        "monetization": 0.85,
+        "passive": 0.6
+      }
+    ]
+  },
+  "Z1rconium/gpt-image-linux": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 72,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "image-gen",
+        "label": "Görsel üretimi",
+        "hits": 1,
+        "monetization": 0.8,
+        "passive": 0.7
+      }
+    ]
+  },
+  "abbosaliboev/free-ai-bible": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 38,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "image-gen",
+        "label": "Görsel üretimi",
+        "hits": 1,
+        "monetization": 0.8,
+        "passive": 0.7
+      }
+    ]
+  },
+  "yc-duan/api-image": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 34,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "image-gen",
+        "label": "Görsel üretimi",
+        "hits": 1,
+        "monetization": 0.8,
+        "passive": 0.7
+      }
+    ]
+  },
+  "seedance-api/seedance-api": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 31,
+    "capabilities": [
+      {
+        "id": "video-gen",
+        "label": "Video üretimi",
+        "hits": 2,
+        "monetization": 0.85,
+        "passive": 0.6
+      },
+      {
+        "id": "pdf-docs",
+        "label": "Doküman/PDF",
+        "hits": 1,
+        "monetization": 0.65,
+        "passive": 0.85
+      }
+    ]
+  },
+  "AndyShaman/gemini-webapi-mcp": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 29,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "image-gen",
+        "label": "Görsel üretimi",
+        "hits": 1,
+        "monetization": 0.8,
+        "passive": 0.7
+      }
+    ]
+  },
+  "saraansx/grok-bypass": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 26,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "image-gen",
+        "label": "Görsel üretimi",
+        "hits": 1,
+        "monetization": 0.8,
+        "passive": 0.7
+      }
+    ]
+  },
+  "gbmomo/gemini-image-webapp": {
+    "firstSeen": "2026-05-29",
+    "domain": "content-media",
+    "stars": 25,
+    "capabilities": [
+      {
+        "id": "image-gen",
+        "label": "Görsel üretimi",
+        "hits": 2,
+        "monetization": 0.8,
+        "passive": 0.7
+      },
+      {
+        "id": "payments",
+        "label": "Ödeme/abonelik",
+        "hits": 1,
+        "monetization": 0.9,
+        "passive": 0.9
+      }
+    ]
+  },
+  "Lyx3314844-03/superspider": {
+    "firstSeen": "2026-05-29",
+    "domain": "data-scraping",
+    "stars": 215,
+    "capabilities": [
+      {
+        "id": "scraping",
+        "label": "Scraping/veri toplama",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.85
+      }
+    ]
+  },
+  "0xMassi/webclaw": {
+    "firstSeen": "2026-05-29",
+    "domain": "data-scraping",
+    "stars": 1228,
+    "capabilities": [
+      {
+        "id": "scraping",
+        "label": "Scraping/veri toplama",
+        "hits": 3,
+        "monetization": 0.7,
+        "passive": 0.85
+      },
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "data-api",
+        "label": "Veri/dataset API",
+        "hits": 1,
+        "monetization": 0.65,
+        "passive": 0.8
+      },
+      {
+        "id": "api-wrap",
+        "label": "API sarmalayıcı",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.85
+      },
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 1,
+        "monetization": 0.5,
+        "passive": 0.8
+      }
+    ]
+  },
+  "ScrapingBee/ai-web-scraper": {
+    "firstSeen": "2026-05-29",
+    "domain": "data-scraping",
+    "stars": 200,
+    "capabilities": [
+      {
+        "id": "scraping",
+        "label": "Scraping/veri toplama",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.85
+      },
+      {
+        "id": "data-api",
+        "label": "Veri/dataset API",
+        "hits": 1,
+        "monetization": 0.65,
+        "passive": 0.8
+      }
+    ]
+  },
+  "yattee/yattee-server": {
+    "firstSeen": "2026-05-29",
+    "domain": "data-scraping",
+    "stars": 50,
+    "capabilities": [
+      {
+        "id": "data-api",
+        "label": "Veri/dataset API",
+        "hits": 1,
+        "monetization": 0.65,
+        "passive": 0.8
+      }
+    ]
+  },
+  "HVision-NKU/ASID-Caption": {
+    "firstSeen": "2026-05-29",
+    "domain": "data-scraping",
+    "stars": 65,
+    "capabilities": [
+      {
+        "id": "data-api",
+        "label": "Veri/dataset API",
+        "hits": 1,
+        "monetization": 0.65,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "DmytroLopushanskyy/iclr2026-affiliations": {
+    "firstSeen": "2026-05-29",
+    "domain": "data-scraping",
+    "stars": 39,
+    "capabilities": [
+      {
+        "id": "data-api",
+        "label": "Veri/dataset API",
+        "hits": 2,
+        "monetization": 0.65,
+        "passive": 0.8
+      },
+      {
+        "id": "analytics",
+        "label": "Analitik/dashboard",
+        "hits": 2,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "scraping",
+        "label": "Scraping/veri toplama",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.85
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      },
+      {
+        "id": "pdf-docs",
+        "label": "Doküman/PDF",
+        "hits": 1,
+        "monetization": 0.65,
+        "passive": 0.85
+      }
+    ]
+  },
+  "pengyichen2026/NaiLong-Voice-Clone": {
+    "firstSeen": "2026-05-29",
+    "domain": "data-scraping",
+    "stars": 35,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "data-api",
+        "label": "Veri/dataset API",
+        "hits": 1,
+        "monetization": 0.65,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "mainamuragev/nairobi_property_pricing": {
+    "firstSeen": "2026-05-29",
+    "domain": "data-scraping",
+    "stars": 32,
+    "capabilities": [
+      {
+        "id": "data-api",
+        "label": "Veri/dataset API",
+        "hits": 2,
+        "monetization": 0.65,
+        "passive": 0.8
+      },
+      {
+        "id": "scraping",
+        "label": "Scraping/veri toplama",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.85
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "frondesce/mineru-kb-packager": {
+    "firstSeen": "2026-05-29",
+    "domain": "data-scraping",
+    "stars": 31,
+    "capabilities": [
+      {
+        "id": "vector-db",
+        "label": "Vektör/arama",
+        "hits": 2,
+        "monetization": 0.5,
+        "passive": 0.8
+      },
+      {
+        "id": "data-api",
+        "label": "Veri/dataset API",
+        "hits": 1,
+        "monetization": 0.65,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "davegoldblatt/marcus-claims-dataset": {
+    "firstSeen": "2026-05-29",
+    "domain": "data-scraping",
+    "stars": 26,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  },
+  "whz39coding/GithubCollectAgent": {
+    "firstSeen": "2026-05-29",
+    "domain": "data-scraping",
+    "stars": 32,
+    "capabilities": [
+      {
+        "id": "text-gen",
+        "label": "Metin/LLM üretimi",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.7
+      },
+      {
+        "id": "scraping",
+        "label": "Scraping/veri toplama",
+        "hits": 2,
+        "monetization": 0.7,
+        "passive": 0.85
+      },
+      {
+        "id": "agent",
+        "label": "Otonom agent",
+        "hits": 1,
+        "monetization": 0.6,
+        "passive": 0.8
+      },
+      {
+        "id": "automation",
+        "label": "Otomasyon/workflow",
+        "hits": 1,
+        "monetization": 0.7,
+        "passive": 0.9
+      }
+    ]
+  }
+}

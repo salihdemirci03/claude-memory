@@ -1,0 +1,94 @@
+[
+  {
+    "date": "2026-05-29",
+    "count": 15,
+    "top": [
+      {
+        "title": "Paketlenmiş Ücretli API (API-as-a-Product)",
+        "score": 0.7405,
+        "repos": [
+          "rocketride-org/rocketride-server",
+          "velobase/velobase-harness"
+        ]
+      },
+      {
+        "title": "Programatik SEO İçerik Sitesi",
+        "score": 0.7358,
+        "repos": [
+          "chantaybednarz69549522326/scribe-ai-engine",
+          "cft0808/edict"
+        ]
+      },
+      {
+        "title": "Paketlenmiş Ücretli API (API-as-a-Product)",
+        "score": 0.7343,
+        "repos": [
+          "GizClaw/flowcraft",
+          "velobase/velobase-harness"
+        ]
+      },
+      {
+        "title": "Faceless Short-Form Video Fabrikası",
+        "score": 0.725,
+        "repos": [
+          "HBAI-Ltd/Toonflow-app",
+          "cft0808/edict"
+        ]
+      },
+      {
+        "title": "Dikey AI Agent SaaS",
+        "score": 0.7242,
+        "repos": [
+          "cft0808/edict",
+          "rocketride-org/rocketride-server"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-29",
+    "count": 24,
+    "top": [
+      {
+        "title": "Niş Otomatik Bülten / Digest SaaS",
+        "score": 0.7512,
+        "repos": [
+          "0xMassi/webclaw",
+          "cft0808/edict"
+        ]
+      },
+      {
+        "title": "Paketlenmiş Ücretli API (API-as-a-Product)",
+        "score": 0.7405,
+        "repos": [
+          "rocketride-org/rocketride-server",
+          "velobase/velobase-harness"
+        ]
+      },
+      {
+        "title": "Programatik SEO İçerik Sitesi",
+        "score": 0.7357,
+        "repos": [
+          "chantaybednarz69549522326/scribe-ai-engine",
+          "cft0808/edict"
+        ]
+      },
+      {
+        "title": "Paketlenmiş Ücretli API (API-as-a-Product)",
+        "score": 0.7351,
+        "repos": [
+          "0xMassi/webclaw",
+          "velobase/velobase-harness"
+        ]
+      },
+      {
+        "title": "Niş Otomatik Bülten / Digest SaaS",
+        "score": 0.7349,
+        "repos": [
+          "whz39coding/GithubCollectAgent",
+          "cft0808/edict"
+        ]
+      }
+    ]
+  }
+]

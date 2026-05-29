@@ -1,0 +1,63 @@
+{
+  "//": "Passive Income Engine yapılandırması. Yeni alan/sorgu eklemek için 'domains' dizisini düzenle.",
+  "discovery": {
+    "perDomain": 15,
+    "minStars": 25,
+    "createdWithinDays": 120,
+    "pushedWithinDays": 90,
+    "maxReadmeChars": 6000,
+    "maxReadmeFetches": 40
+  },
+  "domains": [
+    {
+      "id": "ai-agents",
+      "label": "AI / LLM araçları & agent'lar",
+      "queries": [
+        "ai agent framework",
+        "llm orchestration",
+        "autonomous agent tools",
+        "rag pipeline"
+      ]
+    },
+    {
+      "id": "saas-api",
+      "label": "SaaS / API / mikro-ürünler",
+      "queries": [
+        "saas boilerplate stripe",
+        "api wrapper monetize",
+        "nextjs saas starter",
+        "payment subscription api"
+      ]
+    },
+    {
+      "id": "content-media",
+      "label": "İçerik & medya otomasyonu",
+      "queries": [
+        "ai content generation",
+        "social media automation",
+        "video generation pipeline",
+        "image generation api"
+      ]
+    },
+    {
+      "id": "data-scraping",
+      "label": "Veri & scraping",
+      "queries": [
+        "web scraping framework",
+        "data extraction api",
+        "dataset pipeline",
+        "crawler automation"
+      ]
+    }
+  ],
+  "scoring": {
+    "weights": {
+      "stars": 0.25,
+      "recency": 0.15,
+      "capabilityFit": 0.25,
+      "monetization": 0.2,
+      "passiveness": 0.15
+    },
+    "starsSaturation": 4000
+  }
+}

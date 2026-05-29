@@ -1,0 +1,14 @@
+{
+  "name": "passive-income-engine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub repolarını keşfedip yeteneklerini kombinleyerek pasif gelir fikirleri üreten otomasyon",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node run.js",
+    "run-engine": "node run.js"
+  }
+}
